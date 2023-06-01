@@ -22,10 +22,10 @@
 - [ ] for me, Please
 
 
-#### Each passage consist of six sentences. The first and sixth sentence are given in the beginning. The middle four sentences in each have been removed and jumbled up. These are labelled as P, Q, R and S. Find out the proper order for the four sentences.
+#### Each passage consist of six sentences. The first and sixth sentence are given in the beginning. The middle four sentences in each have been removed and jumbled up. These are labelled as P, Q, R and S.
 
-#### Q2. S1:
-#### All the land was covered by the ocean.
+#### Q2. Find out the proper order for the four sentences.
+#### S1: All the land was covered by the ocean.
 #### P : The leading god fought the monster, killed it and chopped its body in to two halves.
 #### Q : A terrible monster prevented the gods from separating the land from the water.
 #### R : The god made the sky out of the upper part of the body and ornamented it with stars.
