@@ -340,3 +340,171 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+## CrackDQuants Series - Week 1 - 12 April 2023
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+#### 1.  Which of phrases given below each sentence should replace the phrase printed in bold type to make the grammatically correct?
+
+#### There are not many men who are so famous that they are frequently referred to by their short names only.
+
+- [x] No correction required
+- [ ] signatures
+- [ ] middle names
+- [ ] initials
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 2. Each passage consist of six sentences. The first and sixth sentence are given in the beginning. The middle four sentences in each have been removed and jumbled up. These are labelled as P, Q, R and S. Find out the proper order for the four sentences. 
+
+#### S1: A force of exists between everybody in the universe.
+#### P : Normally it is very small but when the one of the bodies is a planet, like earth, the force is considerable.
+#### Q : It has been investigated by many scientists including Galileo and Newton.
+#### R : Everything on or near the surface of the earth is attracted by the mass of earth.
+#### S : This gravitational force depends on the mass of the bodies involved.
+#### #### S6: The greater the mass, the greater is the earth's force of attraction on it. We can call this force of attraction gravity.The Proper sequence should be:
+
+
+- [ ] QSRP
+- [x] QSPR
+- [ ] PRSQ
+- [ ] PRQS
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 3.  Pick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete. 
+
+#### If you smuggle goods into the country, they may be ...... by the customs authority.
+
+- [ ] punished
+- [ ] possessed
+- [x] confiscated
+- [ ] fined
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 4.  In the questions below the sentences have been given in Active/Passive voice. From the given alternatives, choose the one which best expresses the given sentence in Passive/Active voice.
+
+#### Darjeeling grows tea.
+
+- [x] Tea is grown in Darjeeling.
+- [ ] Let the tea be grown in Darjeeling.
+- [ ] Tea is being grown in Darjeeling.
+- [ ] Tea grows in Darjeeling.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 5. In questions given below, a part of the sentence is italicised and underlined. Below are given alternatives to the italicised part which may improve the sentence. Choose the correct alternative. In case no improvement is needed, option 'D' is the answer.
+
+#### Will you lend me few rupees in this hour of need?
+
+- [x] lend me a few rupees
+- [ ] No improvement
+- [ ] lend me any rupees
+- [ ] borrow me a few rupees
+
+
+#### 6. The G.C.D. of 1.08, 0.36 and 0.9 is:
+
+- [ ] 0.9
+- [ ] 0.03
+- [ ] 0.108
+- [x] 0.18
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 7.   The captain of a cricket team of 11 members is 26 years old and the wicket keeper is 3 years older. If the ages of these two are excluded, the average age of the remaining players is one year less than the average age of the whole team. What is the average age of the team?
+
+
+- [ ] None of these
+- [ ] 23 years
+- [ ] 24 years
+- [x] 25 years
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 8.  A train can travel 50% faster than a car. Both start from point A at the same time and reach point B 75 kms away from A at the same time. On the way, however, the train lost about 12.5 minutes while stopping at the stations. The speed of the car is:
+
+- [ ] 100 kmph
+- [ ] 110 kmph
+- [ ] 130 kmph
+- [x] 120 kmph
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 9.  A man buys a cycle for Rs. 1400 and sells it at a loss of 15%. What is the selling price of the cycle?
+
+- [ ] Rs. 1202
+- [ ] Rs. 1160
+- [ ] Rs. 1090
+- [x] Rs. 1190
+
+
+#### 10.  Salaries of Ravi and Sumit are in the ratio 2 : 3. If the salary of each is increased by Rs. 4000, the new ratio becomes 40 : 57. What is Sumit's salary?
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- [ ] Rs. 38,000
+- [ ] Rs. 17,000
+- [ ] Rs. 20,000
+- [x] Rs. 25,500
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 11.   Fill the blank in the middle of the series 
+
+#### ZA5, Y4B, XC6, W3D, _____
+
+
+- [ ] V2E
+- [x] VE7
+- [ ] VE5
+- [ ] E7V
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 12.  Read each definition and all four choices carefully, and find the answer that provides the best example of the given definition.
+
+#### A Tiebreaker is an additional contest or period of play designed to establish a winner among tied contestants. Which situation below is the best example of a Tiebreaker?
+
+- [ ] The referee tosses a coin to decide which team will have possession of the ball first.
+- [ ] At halftime, the score is tied at 28.
+- [x] The Sharks and the Bears each finished with 14 points, and they are now battling it out in a five-minute overtime.
+- [ ] Mary and Megan have each scored three goals in the game.
+
+
+#### 13.  In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Statements: In a one day cricket match, the total runs made by a team were 200. Out of these 160 runs were made by spinners.
+
+#### Conclusions: 80% of the team consists of spinners.The opening batsmen were spinners.
+
+- [ ] Only conclusion II follows
+- [ ] Either I or II follows
+- [ ] Only conclusion I follows
+- [x] Neither I nor II follows
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 14. Look at this series: 21, 9, 21, 11, 21, 13, 21, ... What number should come next?
+
+- [ ] 14
+- [x] 15
+- [ ] 21
+- [ ] 23
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 15. The Kingston Mall has more stores than the Galleria.
+#### The Four Corners Mall has fewer stores than the Galleria.
+#### The Kingston Mall has more stores than the Four Corners Mall.
+#### If the first two statements are true, the third statement is
+
+- [ ] uncertain
+- [ ] None of these
+- [x] true
+- [ ] false
