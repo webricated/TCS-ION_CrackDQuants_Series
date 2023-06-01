@@ -20,3 +20,19 @@
 - [x] No Error
 - [ ] May You
 - [ ] for me, Please
+
+
+#### Each passage consist of six sentences. The first and sixth sentence are given in the beginning. The middle four sentences in each have been removed and jumbled up. These are labelled as P, Q, R and S. Find out the proper order for the four sentences.
+
+#### Q2. S1:
+#### All the land was covered by the ocean.
+#### P : The leading god fought the monster, killed it and chopped its body in to two halves.
+#### Q : A terrible monster prevented the gods from separating the land from the water.
+#### R : The god made the sky out of the upper part of the body and ornamented it with stars.
+#### S : The god created the earth from the lower part, grew plants on it and populated it with animals.
+#### S6: The god moulded the first people out of clay according to his own image and mind.The Proper sequence should be
+
+- [ ] PQRS
+- [ ] QPRS
+- [x] QPSR
+- [ ] PQSR
