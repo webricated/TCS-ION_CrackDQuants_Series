@@ -285,3 +285,58 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#### 11. Fill the blank in the middle of the series 
+
+#### CMM, EOO, GQQ, _____, KUU
+
+
+- [x] ISS
+- [ ] GRR
+- [ ] GSS
+- [ ] ITT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 12. Read each definition and all four choices carefully, and find the answer that provides the best example of the given definition.
+
+#### Applying for Seasonal Employment occurs when a person requests to be considered for a job that is dependent on a particular season or time of year. Which situation below is the best example of Applying for Seasonal Employment?
+
+- [x] Lucinda makes an appointment with the beach resort restaurant manager to interview for the summer waitressing position that was advertised in the newspaper.
+- [ ] The ski instructors at Top of the Peak Ski School work from December through March.
+- [ ] Doug's ice cream shop stays open until 11 p.m. during the summer months.
+- [ ] Matthew prefers jobs that allow him to work outdoors.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 13.  Three of the words will be in the same classification, the remaining one will not be. Your answer will be the one word that does NOT belong in the same classification as the others.
+
+#### Which word does NOT belong with the others?
+
+- [ ] inch
+- [ ] centimeter
+- [ ] yard
+- [x] ounce
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 14. Look at this series: 53, 53, 40, 40, 27, 27, ... What number should come next?
+
+- [ ] 27
+- [ ] 53
+- [x] 14
+- [ ] 12
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 15.   Blueberries cost more than strawberries.
+#### Blueberries cost less than raspberries.
+#### Raspberries cost more than strawberries and blueberries.
+#### If the first two statements are true, the third statement is
+
+- [x] false
+- [ ] uncertain
+- [ ] None of these
+- [ ] true
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
