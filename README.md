@@ -16,9 +16,9 @@
 
 ### 1. May you carry these books for me, please?
 
-[] Carry these books
-[] No Error
-[] May You
+- [] Carry these books
+- [] No Error
+- [] May You
 for me, Please
 Each passage consist of six sentences. The first and sixth sentence are given in the beginning. The middle four sentences in each have been removed and jumbled up. These are labelled as P, Q, R and S. Find out the proper order for the four sentences. 
 
