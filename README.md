@@ -170,4 +170,118 @@
 - [x] uncertain
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+## CrackDQuants Series - Week 2 - 19 April 2023
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 1. Which of phrases given below each sentence should replace the phrase printed in bold type to make the grammatically correct?
+#### The man to who I sold my house was a cheat.
+
+- [ ] No correction required
+- [ ] who was sold to
+- [x] to whom I sold
+- [ ] to who I sell
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 2.Each passage consist of six sentences. The first and sixth sentence are given in the beginning. The middle four sentences in each have been removed and jumbled up. These are labelled as P, Q, R and S. Find out the proper order for the four sentences. 
+
+#### S1: In the middle of one side of the square sits the Chairman of the committee, the most important person in the room.
+#### P : For a committee is not just a mere collection of individuals.
+#### Q : On him rests much of the responsibility for the success or failure of the committee.
+#### R : While this is happening we have an opportunity to get the 'feel' of this committe.
+#### S : As the meeting opens, he runs briskly through a number of formalities.
+#### S6: From the moment its members meet, it begins to have a sort nebulous life of its own.
+
+#### The Proper sequence should be:
+
+- [ ] PQRS
+- [x] QSRP
+- [ ] SQPR
+- [ ] RSQP
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 3. Pick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete. 
+
+#### The grapes are now _______ enough to be picked.
+
+- [ ] mature
+- [x] ripe
+- [ ] advanced
+- [ ] ready
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 4. In the questions below the sentences have been given in Active/Passive voice. From the given alternatives, choose the one which best expresses the given sentence in Passive/Active voice.
+
+#### Who is creating this mess?
+
+- [x] By whom this mess is being created?
+- [ ] Who has been created this mess?
+- [ ] By whom has this mess been created?
+- [ ] By whom is this mess being created?
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 5. In questions given below, a part of the sentence is italicised and underlined. Below are given alternatives to the italicised part which may improve the sentence. Choose the correct alternative. In case no improvement is needed, option 'D' is the answer.
+
+
+#### The record for the biggest tiger hunt has not been met since 1911 when Lord Hardinge. then Viceroy of India, shot a tiger than measured 11 feet and 6 inches.
+
+- [ ] bettered
+- [ ] improved
+- [x] broken
+- [ ] No improvement
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 6. The H.C.F. of two numbers is 23 and the other two factors of their L.C.M. are 13 and 14. The larger of the two numbers is:
+
+- [ ] 299
+- [ ] 276
+- [x] 322
+- [ ] 345
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 7.  A grocer has a sale of Rs. 6435, Rs. 6927, Rs. 6855, Rs. 7230 and Rs. 6562 for 5 consecutive months. How much sale must he have in the sixth month so that he gets an average sale of Rs. 6500?
+
+- [ ] Rs. 4991
+- [x] Rs. 6991
+- [ ] Rs. 6001
+- [ ] Rs. 5991
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 8. A and B take part in 100 m race. A runs at 5 kmph. A gives B a start of 8 m and still beats him by 8 seconds. The speed of B is:
+
+- [ ] 4.4 kmph
+- [ ] 5.15 kmph
+- [x] 4.25 kmph
+- [ ] 4.14 kmph
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 9. The price of 2 sarees and 4 shirts is Rs. 1600. With the same money one can buy 1 saree and 6 shirts. If one wants to buy 12 shirts, how much shall he have to pay ?
+
+- [x] Rs. 2400
+- [ ] Rs. 4800
+- [ ] Rs. 1200
+- [ ] None of these
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 10.  3 pumps, working 8 hours a day, can empty a tank in 2 days. How many hours a day must 4 pumps work to empty the tank in 1 day?
+
+- [ ] 10
+- [ ] 11
+- [x] 12
+- [ ] 9
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
