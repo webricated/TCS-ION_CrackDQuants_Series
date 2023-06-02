@@ -705,7 +705,7 @@
 - [ ] No correction required
 - [ ] to having enhance their reputation
 - [ ] of enhancing their reputation
-- [ ] to enhancing their reputation
+- [x] to enhancing their reputation
 - [ ] to have their reputation enhancing
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -723,7 +723,7 @@
 #### The Proper sequence should be:
 
 - [ ] PQRS
-- [ ] PSRQ
+- [x] PSRQ
 - [ ] SPRQ
 - [ ] SPQR
 
@@ -766,7 +766,7 @@
 #### 6.  The least number which should be added to 2497 so that the sum is exactly divisible by 5, 6, 4 and 3 is:
 
 - [ ] 33
-- [ ] 23
+- [x] 23
 - [ ] 3
 - [ ] 13
 
@@ -776,7 +776,7 @@
 
 - [ ] 49.25 kg
 - [ ] 47.55 kg
-- [ ] 48.55 kg
+- [x] 48.55 kg
 - [ ] 48 kg
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -786,13 +786,13 @@
 - [ ] 11 kmph
 - [ ] 14 kmph
 - [ ] 8 kmph
-- [ ] 12 kmph
+- [x] 12 kmph
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### 9. When a plot is sold for Rs. 18,700, the owner loses 15%. At what price must that plot be sold in order to gain 15%?
 
-- [ ] Rs. 25,300
+- [x] Rs. 25,300
 - [ ] Rs. 25,800
 - [ ] Rs. 22,500
 - [ ] Rs. 21,000
@@ -801,7 +801,7 @@
 
 #### 10. If 40% of a number is equal to two-third of another number, what is the ratio of first number to the second number?
 
-- [ ] 5 : 3
+- [x] 5 : 3
 - [ ] 2 : 5
 - [ ] 3 : 7
 - [ ] 7 : 3
@@ -851,7 +851,7 @@
 #### 14. Look at this series: 14, 28, 20, 40, 32, 64, ... What number should come next?
 
 - [ ] 128
-- [ ] 56
+- [x] 56
 - [ ] 52
 - [ ] 96
 
@@ -864,7 +864,7 @@
 #### If the first two statements are true, the third statement is
 
 - [ ] true
-- [ ] false
+- [x] false
 - [ ] uncertain
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
