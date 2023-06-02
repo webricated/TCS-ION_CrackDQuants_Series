@@ -17,8 +17,8 @@
 #### May you carry these books for me, please?
 
 - [ ] Carry these books
-- [x] No Error
-- [ ] May You
+- [ ] No Error
+- [x] May You
 - [ ] for me, Please
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -33,8 +33,8 @@
 #### S6: The god moulded the first people out of clay according to his own image and mind.The Proper sequence should be
 
 - [ ] PQRS
-- [ ] QPRS
-- [x] QPSR
+- [x] QPRS
+- [ ] QPSR
 - [ ] PQSR
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
