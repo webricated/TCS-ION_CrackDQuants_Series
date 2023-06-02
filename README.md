@@ -508,3 +508,182 @@
 - [ ] None of these
 - [x] true
 - [ ] false
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+### CrackDQuants Series - Week 4 - 12 April 2023
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+#### 1. Which of phrases given below each sentence should replace the phrase printed in bold type to make the grammatically correct?
+
+#### Shapes of gods and goddess are worshipped by people.
+
+- [x] Clay shapes
+- [ ] Clay toys
+- [ ] Images
+- [ ] Reflections
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 2. Each passage consist of six sentences. The first and sixth sentence are given in the beginning. The middle four sentences in each have been removed and jumbled up. These are labelled as P, Q, R and S. Find out the proper order for the four sentences. 
+
+
+#### S1:  Venice is a strange and beautiful city in the north of Italy.
+#### P :  There are about four hundred old stone bridges joining the island of Venice.
+#### Q :  In this city there are no motor cars, no horses, no buses.
+#### R :  These small islands are near one another.
+#### S :  It is not an island but a hundred and seventeen islands.
+#### S6:  This is because Venice has no streets.
+#### The Proper sequence should be:
+
+
+- [ ] PRQS
+- [ ] QSRP
+- [x] SRPQ
+- [ ] PRSQ
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 3. Pick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete. 
+
+#### Rohan and Rohit are twin brothers, but they do not look ......
+
+- [ ] likely
+- [ ] alike
+- [ ] unique
+- [x] different
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 4.  In the questions below the sentences have been given in Active/Passive voice. From the given alternatives, choose the one which best expresses the given sentence in Passive/Active voice.
+
+#### You can play with these kittens quite safely.
+
+- [ ] These kittens can play with you quite safely
+- [ ] These kittens can be played with you quite safely
+- [ ] These kittens can played with quite safely
+- [x] These kittens can be played with quite safely
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 5. In questions given below, a part of the sentence is italicised and underlined. Below are given alternatives to the italicised part which may improve the sentence. Choose the correct alternative. In case no improvement is needed, option 'D' is the answer.
+
+#### During his long discourse, he did not touch that point.
+
+- [ ] touch of
+- [ ] No improvement
+- [ ] touch upon
+- [x] touch on
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 6.  Find the lowest common multiple of 24, 36 and 40.
+
+- [ ] 120
+- [x] 360
+- [ ] 480
+- [ ] 240
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 7.   The average weight of A, B and C is 45 kg. If the average weight of A and B be 40 kg and that of B and C be 43 kg, then the weight of B is:
+
+- [ ] 17 kg
+- [ ] 26 kg
+- [ ] 20 kg
+- [x] 31 kg
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 8. . In covering a distance of 30 km, Abhay takes 2 hours more than Sameer. If Abhay doubles his speed, then he would take 1 hour less than Sameer. Abhay's speed is:
+
+- [x] 5 kmph
+- [ ] 6.25 kmph
+- [ ] 6 kmph
+- [ ] 7.5 kmph
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 9.  On selling 17 balls at Rs. 720, there is a loss equal to the cost price of 5 balls. The cost price of a ball is:
+
+- [ ] Rs. 55
+- [ ] Rs. 45
+- [x] Rs. 60
+- [ ] Rs. 50
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 10.  The salaries A, B, C are in the ratio 2 : 3 : 5. If the increments of 15%, 10% and 20% are allowed respectively in their salaries, then what will be new ratio of their salaries?
+
+- [x] 23 : 33 : 60
+- [ ] 10 : 11 : 20
+- [ ] Cannot be determined
+- [ ] 3 : 3 : 10
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 11.  Fill the blank in the middle of the series 
+
+#### QAR, RAS, SAT, TAU, _____
+
+- [ ] UAT
+- [ ] TAS
+- [x] UAV
+- [ ] TAT
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 12.  Read each definition and all four choices carefully, and find the answer that provides the best example of the given definition.
+
+
+#### It is appropriate to compensate someone if you have damaged his or her property in some way. This is called Restitution. Which situation below is the best example of Restitution?
+
+- [ ] Aaron asks Tom to check in on his apartment while he is out of town. When Tom arrives, he discovers that a pipe has burst and there is a considerable amount of water damage. He calls a plumber to repair the pipe.
+- [ ] Rebecca borrows her neighbor's car, and when she returns it, the gas tank is practically empty. She apologizes profusely and tells her neighbor she will be more considerate the next time.
+- [x] Jake borrows Leslie's camera and the lens shatters when it falls on the ground because he fails to zipper the case.When Jake returns the camera, he tells Leslie that he will pay for the repair.
+- [ ] Lisa suspects that the pothole in her company's parking lot caused her flat tire. She tells her boss that she thinks the company should pay for the repair.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 13. In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement. 
+
+#### Statements: The manager humiliated Sachin in the presence of his colleagues.
+
+#### Conclusions: The manager did not like Sachin.
+
+#### Sachin was not popular with his colleagues.
+
+
+- [x] Neither I nor II follows
+- [ ] Either I or II follows
+- [ ] Only conclusion II follows
+- [ ] Only conclusion I follows
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 14. Look at this series: 1.5, 2.3, 3.1, 3.9, ... What number should come next?
+
+- [ ] 4.2
+- [x] 4.7
+- [ ] 5.1
+- [ ] 4.4
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 15.   The Shop and Save Grocery is south of Greenwood Pharmacy.
+#### Rebecca's house is northeast of Greenwood Pharmacy.
+#### Rebecca's house is west of the Shop and Save Grocery.
+#### If the first two statements are true, the third statement is
+
+- [x] false
+- [ ] true
+- [ ] uncertain
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
