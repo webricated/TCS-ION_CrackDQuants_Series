@@ -687,3 +687,363 @@
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+### CrackDQuants Series - Week 5 - 12 April 2023
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+#### 1.  Which of phrases given below each sentence should replace the phrase printed in bold type to make the grammatically correct?
+
+#### In addition to enhanced their reputations through strategic use of philanthropy, companies are sponsoring social initiatives to open new markets. 
+
+- [ ] No correction required
+- [ ] to having enhance their reputation
+- [ ] of enhancing their reputation
+- [ ] to enhancing their reputation
+- [ ] to have their reputation enhancing
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 2. Each passage consist of six sentences. The first and sixth sentence are given in the beginning. The middle four sentences in each have been removed and jumbled up. These are labelled as P, Q, R and S. Find out the proper order for the four sentences. 
+
+
+#### S1:          The Hound of Baskervilles was feared by the people of the area.
+#### P :           Some people spoke of seeing a huge, shadowy form a Hound at midnight on the moor.
+#### Q :          But they spoke of it in tones of horror.
+#### R :           Nobody had actually seen the hound.
+#### S :           This shadowy form did not reveal any details about the animal.
+#### S6:          The Hound of Baskervilles remains an unsolved mystery.
+
+#### The Proper sequence should be:
+
+- [ ] PQRS
+- [ ] PSRQ
+- [ ] SPRQ
+- [ ] SPQR
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 3. Pick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete. 
+
+#### To err is ...... to forgive divine.
+
+- [x] human
+- [ ] natural
+- [ ] inhuman
+- [ ] beastly
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 4.  In the questions below the sentences have been given in Active/Passive voice. From the given alternatives, choose the one which best expresses the given sentence in Passive/Active voice.
+
+#### A child could not have done this mischief.
+
+- [ ] This mischief could not be done by a child
+- [ ] This mischief could not been done by a child
+- [ ] This mischief a child could not have been done
+- [x] This mischief could not have been done by a child
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 5. In questions given below, a part of the sentence is italicised and underlined. Below are given alternatives to the italicised part which may improve the sentence. Choose the correct alternative. In case no improvement is needed, option 'D' is the answer.
+
+#### He found a wooden broken chair in the room.
+
+- [ ] No improvement
+- [x] broken wooden chair
+- [ ] broken and wooden chair
+- [ ] wooden and broken chair
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+#### 6.  The least number which should be added to 2497 so that the sum is exactly divisible by 5, 6, 4 and 3 is:
+
+- [ ] 33
+- [ ] 23
+- [ ] 3
+- [ ] 13
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 7. The average weight of 16 boys in a class is 50.25 kg and that of the remaining 8 boys is 45.15 kg. Find the average weights of all the boys in the class.
+
+- [ ] 49.25 kg
+- [ ] 47.55 kg
+- [ ] 48.55 kg
+- [ ] 48 kg
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 8. Robert is travelling on his cycle and has calculated to reach point A at 2 P.M. if he travels at 10 kmph, he will reach there at 12 noon if he travels at 15 kmph. At what speed must he travel to reach A at 1 P.M.?
+
+- [ ] 11 kmph
+- [ ] 14 kmph
+- [ ] 8 kmph
+- [ ] 12 kmph
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 9. When a plot is sold for Rs. 18,700, the owner loses 15%. At what price must that plot be sold in order to gain 15%?
+
+- [ ] Rs. 25,300
+- [ ] Rs. 25,800
+- [ ] Rs. 22,500
+- [ ] Rs. 21,000
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 10. If 40% of a number is equal to two-third of another number, what is the ratio of first number to the second number?
+
+- [ ] 5 : 3
+- [ ] 2 : 5
+- [ ] 3 : 7
+- [ ] 7 : 3
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 11. Fill the blank in the middle of the series 
+
+####  DEF, DEF2, DE2F2, _____, D2E2F3
+
+- [ ] D3EF3
+- [ ] D2E3F
+- [x] D2E2F2
+- [ ] DEF3
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+#### 12. Read each definition and all four choices carefully, and find the answer that provides the best example of the given definition.
+
+#### Reentry occurs when a person leaves his or her social system for a period of time and then returns. Which situation below best describes Reentry ?
+
+- [ ] After several miserable months, Sharon decides that she can no longer share an apartment with her roommate Hilary
+- [ ] When he is offered a better paying position, Jacob leaves the restaurant he manages to manage a new restaurant on the other side of town
+- [ ] Catherine is spending her junior year of college studying abroad in France
+- [x] Malcolm is readjusting to civilian life after two years of overseas military service
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+#### 13. In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement. 
+
+#### Statements: Women's organisations in India have welcomed the amendment of the Industrial Employment Rules 1946 to curb sexual harassment at the work place.
+#### Conclusions: Sexual harassment of women at work place is more prevalent in India as compared to other developed countries.
+
+#### Many organisations in India will stop recruiting women to avoid such problems.
+
+
+- [ ] Only conclusion II follows
+- [ ] Both I and II follow
+- [ ] Either I or II follows
+- [x] Neither I nor II follows
+- [ ] Only conclusion I follows
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 14. Look at this series: 14, 28, 20, 40, 32, 64, ... What number should come next?
+
+- [ ] 128
+- [ ] 56
+- [ ] 52
+- [ ] 96
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 15.  Class A has a higher enrollment than Class B.
+#### Class C has a lower enrollment than Class B.
+#### Class A has a lower enrollment than Class C.
+
+#### If the first two statements are true, the third statement is
+
+- [ ] true
+- [ ] false
+- [ ] uncertain
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+### CrackDQuants Series - Week 6 - 12 April 2023
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+#### 1. Which of phrases given below each sentence should replace the phrase printed in bold type to make the grammatically correct?
+
+#### The intruder stood quietly for few moments
+
+- [x] for a few moments
+- [ ] for few time
+- [ ] for the few moments
+- [ ] No correction required
+- [ ] for moments
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+#### 2. Each passage consist of six sentences. The first and sixth sentence are given in the beginning. The middle four sentences in each have been removed and jumbled up. These are labelled as P, Q, R and S. Find out the proper order for the four sentences. 
+
+#### S1:          A gentleman who lived alone always had two plates placed on the table at dinner time.
+#### P :           One day just as he sat down to dine, the cat rushed in to the room.
+#### Q :          One plate was for himself and other was for his cat.
+#### R :           she drooped a mouse into her own plate and another into her master plate.
+#### S :           He used to give the cat a piece of meat from his own plate.
+#### S6:          In this way the cat showed her gratitude to her master.
+
+#### The Proper sequence should be:
+
+- [x] QSPR
+- [ ] RPQS
+- [ ] PSRQ
+- [ ] QRSP
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 3. Pick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete. 
+
+#### The ruling party will have to put its own house ...... order.
+
+- [ ] on
+- [ ] into
+- [x] in
+- [ ] to
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 4.  In the questions below the sentences have been given in Active/Passive voice. From the given alternatives, choose the one which best expresses the given sentence in Passive/Active voice.
+
+#### James Watt discovered the energy of steam.
+
+- [ ] The energy of steam discovered James Watt.
+- [ ] James Watt had discovered energy by the steam.
+- [ ] James Watt was discovered by the energy of steam.
+- [x] The energy of steam was discovered by James Watt.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 5. In questions given below, a part of the sentence is italicised and underlined. Below are given alternatives to the italicised part which may improve the sentence. Choose the correct alternative. In case no improvement is needed, option 'D' is the answer.
+
+#### He could not look anything in the dark room.
+
+- [ ] look at
+- [x] see
+- [ ] see through
+- [ ] No improvement
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 6.   Reduce 128352 / 238368 to its lowest terms.
+
+- [ ] 3/4
+- [x] 7/13
+- [ ] 9/13
+- [ ] 5/13
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 7.  A library has an average of 510 visitors on Sundays and 240 on other days. The average number of visitors per day in a month of 30 days beginning with a Sunday is:
+
+- [x] 285
+- [ ] 250
+- [ ] 276
+- [ ] 280
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 8. It takes eight hours for a 600 km journey, if 120 km is done by train and the rest by car. It takes 20 minutes more, if 200 km is done by train and the rest by car. The ratio of the speed of the train to that of the cars is:
+
+- [x] 3 : 4
+- [ ] 4 : 3
+- [ ] 2 : 3
+- [ ] 3 : 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 9. 100 oranges are bought at the rate of Rs. 350 and sold at the rate of Rs. 48 per dozen. The percentage of profit or loss is:
+
+- [ ] 15 % loss
+- [x] 14 2/7% gain
+- [ ] 14 2/7% loss
+- [ ] 15% gain
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 10. The fourth proportional to 5, 8, 15 is:
+
+- [ ] 18
+- [ ] 19
+- [ ] 20
+- [x] 24
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+#### 11. Fill the blank in the middle of the series 
+
+#### ELFA, GLHA, ILJA, _____, MLNA
+
+- [x] KLLA
+- [ ] OLPA
+- [ ] KLMA
+- [ ] LLMA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 12. Read each definition and all four choices carefully, and find the answer that provides the best example of the given definition.
+
+#### Embellishing the Truth occurs when a person adds fictitious details or exaggerates facts or true stories. Which situation below is the best example of Embellishing the Truth?
+
+- [ ] Isabel goes to the theater, and the next day, she tells her coworkers she thought the play was excellent.
+- [ ] The basketball coach says it is likely that only the most talented players will get a college scholarship.
+- [ ] During the job interview, Fred, who has been teaching elementary school for ten years, describes himself as a very experienced teacher.
+- [x] The realtor describes the house, which is eleven blocks away from the ocean, as prime waterfront property.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 13. In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement. 
+
+#### Statements: : Nation X faced growing international opposition for its decision to explode eight nuclear weapons at its test site.
+#### Conclusions:
+#### 1. The citizens of the nation favoured the decision.
+#### 2. Some powerful countries do not want other nations to become as powerful as they are.
+
+- [ ] Only conclusion I follows
+- [ ] Only conclusion II follows
+- [ ] Both I and II follow
+- [ ] Either I or II follows
+- [x] Neither I nor II follows
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 14. Look at this series: 2, 4, 6, 8, 10, ... What number should come next?
+
+- [ ] 11
+- [ ] 14
+- [x] 12
+- [ ] 13
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 15.  A fruit basket contains more apples than lemons.
+#### There are more lemons in the basket than there are oranges.
+#### The basket contains more apples than oranges.
+#### If the first two statements are true, the third statement is
+
+- [ ] false
+- [x] true
+- [ ] uncertain
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
