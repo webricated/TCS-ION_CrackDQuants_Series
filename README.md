@@ -68,7 +68,7 @@
 - [ ] whenever there is rain I shall come
 - [ ] I am less likely to come if it rains
 
---------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 #### Q6. Reena took a loan of Rs. 1200 with simple interest for as many years as the rate of interest. If she paid Rs. 432 as interest at the end of the loan period, what was the rate of interest?
 
